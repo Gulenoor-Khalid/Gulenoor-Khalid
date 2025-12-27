@@ -16,7 +16,10 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wwww.linkedin.com/in/gule-noor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enegrgul.smartcivilai@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gule-noor)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enegrgul.smartcivilai@gmail.com)
+[![Topmate](https://img.shields.io/badge/Topmate-4A89F3.svg?logo=topmate&logoColor=white)](https://topmate.io/gul_e_noor/)
+
 
 ## 💻 Tech Stack
 
