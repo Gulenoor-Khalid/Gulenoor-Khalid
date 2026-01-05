@@ -22,7 +22,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gule-noor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gul-e-noor-khalid)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enegrgul.smartcivilai@gmail.com)
 [![Topmate](https://img.shields.io/badge/Topmate-4A89F3.svg?logo=topmate&logoColor=white)](https://topmate.io/gul_e_noor/)
 
