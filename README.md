@@ -8,9 +8,15 @@
 ---
 
 ### 👩‍💻 About Me
-- 🔭 I work on **AI Powered Applications,AI Agents & Multi-Agent Systems**  
-- 💡 Exploring **AI + Sub niches** applications (Smart Infrastructure & Automation)   
-- 🌍 Collaborations in **AI Product Development & Automation**  
+🔭 I work on AI-Powered Applications, AI Agents & Multi-Agent Systems
+
+💡 Exploring AI + sub-niche applications, particularly Smart Infrastructure & Intelligent Automation
+
+🌍 Collaborate on AI Product Development & End-to-End Automation initiatives
+
+🗣️ Known for exceptional communication skills, translating complex AI systems into clear, actionable insights for C-suite executives
+
+🚀 Experienced in delivering production-ready AI solutions aligned with executive, business, and strategic goals 
 
 ---
 
@@ -37,18 +43,12 @@
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
 ![Pinecone](https://img.shields.io/badge/Pinecone-0EAD69?style=for-the-badge)
 
-### 📊 Data Science & Analysis
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🚀 Backend, APIs & MLOps
+
+### 🚀 Backend, APIs 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
 
 ### 🗄️ Databases
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
