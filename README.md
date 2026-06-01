@@ -8,21 +8,21 @@
 ---
 
 ### 👩‍💻 About Me
-🔭 I work on AI-Powered Applications, AI Agents & Multi-Agent Systems
+ I work on AI-Powered Applications, AI Agents & Multi-Agent Systems
 
-💡 Exploring AI + sub-niche applications, particularly Smart Infrastructure & Intelligent Automation
+ Exploring AI + sub-niche applications, particularly Smart Infrastructure & Intelligent Automation
 
-🌍 Collaborate on AI Product Development & End-to-End Automation initiatives
+ Collaborate on AI Product Development & End-to-End Automation initiatives
 
-🗣️ Known for exceptional communication skills, translating complex AI systems into clear, actionable insights for C-suite executives
+ Known for exceptional communication skills, translating complex AI systems into clear, actionable insights for C-suite executives
 
-🚀 Experienced in delivering production-ready AI solutions aligned with executive, business, and strategic goals 
+ Experienced in delivering production-ready AI solutions aligned with executive, business, and strategic goals 
 
 ---
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gul-e-noor-khalid)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gule-noor)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:enegrgul.smartcivilai@gmail.com)
 [![Topmate](https://img.shields.io/badge/Topmate-4A89F3.svg?logo=topmate&logoColor=white)](https://topmate.io/gul_e_noor/)
 
@@ -55,9 +55,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VectorDB](https://img.shields.io/badge/Vector%20Databases-0F172A?style=for-the-badge)
 
-### 🎨 Frontend (AI Products & Dashboards)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### ☁️ Deployment & CI/CD
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -66,10 +63,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gulenoor-Khalid&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Gulenoor-Khalid&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulenoor-Khalid&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
